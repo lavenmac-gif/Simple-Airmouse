@@ -8,6 +8,7 @@ Instead of holding a physical mouse, the user wears a glove containing an ESP32 
 
 This project is currently being developed and tested virtually using Wokwi before moving to the actual hardware.
 
+https://wokwi.com/projects/475248661426141185
 ---
 
 ## Why I started this project
